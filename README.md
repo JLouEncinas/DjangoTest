@@ -14,5 +14,8 @@
 ## migrate to db
 `python manage.py migrate`
 
+## create superuser
+`python manage.py createsuperuser`
+
 ## run django
 `python manage.py runserver`
